@@ -28,7 +28,7 @@
         paragraph.innerText = result;
         resultDivided.appendChild(paragraph);
 
-        //ツイートエリアの作成
+        //ツイートエリアの作成a
 
         removeAllChildren(tweetDivided);
         const anchor = document.createElement('a');
